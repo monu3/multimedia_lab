@@ -1,0 +1,14 @@
+
+Questions :
+
+
+1.	Python Program to convert text to speech.
+2.	Python code to convert a colored Image to Gray-Scale Image.
+3.	Python code to convert a circle into triangle and rectangle.
+4.	Program to simulate Huffman Code through Python Code.
+5.	Python Program to draw logo .
+6.	 Create an animation to indicate a ball bouncing on steps.
+
+7.	Create an animation to simulate the movement of a cloud.
+8.	Create an animation to represent the growing moon .
+9.	WAP in python to compress the image.
