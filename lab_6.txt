@@ -1,0 +1,19 @@
+6. Create an animation to indicate a ball bouncing on steps.
+
+Steps:
+
+
+Step 1: Go to Macromedia and click on flash Document.
+
+Step 2: Select the line tool , draw the steps, color it using the paint bucket tool .
+
+Step 3: From the tool bar, select the circle ,create a circle on the work area .
+
+Step 4: fill the color to the circle using the Paint bucket tool from the tool box(bar).
+
+Step 5: Go to frames right click on the first frame and choose insert key frame.  
+(Slightly move the ball. And repeat the same procedure by adding new key frame to	 show  ball change the shape of the ball slightly when it touches the surface.) 
+
+Step 6: In order to change the shape use the free transform tool 
+
+Step 7: Go to control and click on test movies, you will observe the ball bouncing on    steps.

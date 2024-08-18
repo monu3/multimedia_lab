@@ -1,0 +1,25 @@
+7. Create an animation to simulate the movement of a cloud.
+
+Procedure: 
+
+Step 1: Go to start –macromedia- click on flash document. 
+
+Step 2: Creating a blue background in layer 1 
+
+Step 3: Now, insert a layer 2 and draw the clouds in this layer 
+
+Step 4: In order to create the clouds, go to tool bar and select brush option, draw the cloud in layer 2 .
+
+Step 5: Fill the color to the cloud, right click on it- choose convert to symbol option- give the  name as cloud .
+
+Step 6: Select the movie clip option and click ok 
+
+Step 7: Go to filter  click on the + symbol    select glow to apply glowing effect      select the color to white .
+
+Step 8: Under glow and adjust the blur x / blur y values. [x=10, y=10] 
+
+Step 9: Give the appropriate blur effect to the cloud 
+
+Step 10: Go to frames, insert key frame on both the layer, create the motion tween on  2nd layer and move the clouds .
+
+Step 11: Finally go to control  click on  test movies.

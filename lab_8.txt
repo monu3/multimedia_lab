@@ -1,0 +1,25 @@
+8. Create an animation to represent the growing moon 
+
+Procedure: 
+
+Step 1:  Open flash 8 software      click on flash document      go to windows      properties   select the properties tool choose the background to black .
+
+Step 2: Go to the fill color under the tool bar and select the white color.
+
+Step 3: Select the oval tool in order to draw the moon, you will get a white circle .
+
+Step 4: Select the white circle on the worksheet using the selection tool      right click     convert to symbol  select movie clip  give suitable name eg: moon  
+
+Step 5: Go to filter     click on the + symbol     select glow to apply glowing effect     select the color to white under the glow and adjust the blur x / blur y values. [x=12, y=12] 
+
+Step 6: Click on the + symbol again and chose blur      again adjust the blur x / blur y values 
+
+Step 7: Place the moon where ever you want on the work area, double click on layer 1 and rename as MOON 
+
+Step 8: Select the fill color to black     select oval tool and draw a circle on the moon to cover the moon     select the newly added circle     right click     convert to symbol   movie clip name it as Animation .
+
+Step 9: Go to filter : select + symbol  give the glow and blur effect as did for moon 
+
+Step 10: Select the 150th frame in moon layer     right click     insert key frame. Repeat the same for animation layer .
+
+Step 11: Finally go to control  test movie you will get a growing moon as the output.
